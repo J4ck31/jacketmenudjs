@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "fs": "^0.0.1-security",
+    "init": "^0.1.2",
+    "modify_lib_djs": "^1.0.45",
+    "opusscript": "^0.0.8",
+    "prompts": "^2.4.1",
+    "request": "^2.88.2",
+    "ytdl-core-discord": "^1.3.0"
+  }
+}
